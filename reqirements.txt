@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+base64
+pyresparser
+pdfminer3
+pandas
+streamlit_tags
+pafy
+plotly.express
+PIL
